@@ -1,0 +1,30 @@
+Cybercrime Investigation Report
+
+Case ID: CC-2025-001
+Date: 2025-01-01
+
+1. Incident Summary
+The system detected abnormal login attempts followed by suspicious external network access.
+
+2. Timeline of Events
+09:10 – External IP connection detected
+09:12 – Multiple failed login attempts
+09:15 – Unauthorized file modification
+
+3. Network Activity Analysis
+Network logs revealed repeated connections from an external IP targeting internal services.
+
+4. User Activity Analysis
+User activity logs showed excessive failed login attempts exceeding normal thresholds.
+
+5. File and Evidence Analysis
+Critical system files were modified during the incident window.
+
+6. Incident Classification
+Cyber Intrusion (Unauthorized Access)
+
+7. Findings
+Correlation of network, user, and file logs indicates a coordinated cyber intrusion.
+
+8. Recommendations
+Enable multi-factor authentication and continuous log monitoring.
